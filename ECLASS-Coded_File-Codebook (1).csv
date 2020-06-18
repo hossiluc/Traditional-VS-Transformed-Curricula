@@ -1,0 +1,180 @@
+Coulmn Name,Code/Example,Prompt/Explanation
+StudentID,A12345678,Student's MSU PID 
+CourseID,phys251-fa18,Course-semesterYear (e.g: phys251-fa18)
+Finished.x,No = 0; Yes = 1,Finished ECLASS PRETEST
+Q1a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I try to understand how the experimental setup works.-What do YOU think when doing experiments for class?"
+Q1b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I try to understand how the experimental setup works.-What would experimental physicists say about their research?"
+Q2a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I wanted to, I think I could be good at doing research.-What do YOU think when doing experiments for class?"
+Q2b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I wanted to, I think I could be good at doing research.-What would experimental physicists say about their research?"
+Q3a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing a physics experiment, I don't think much about sources of systematic error.-What do YOU think when doing experiments for class?"
+Q3b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing a physics experiment, I don't think much about sources of systematic error.-What would experimental physicists say about their research?"
+Q4a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I am communicating results from an experiment, my main goal is to have the correct sections and f...-What do YOU think when doing experiments for class?"
+Q4b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I am communicating results from an experiment, my main goal is to have the correct sections and f...-What would experimental physicists say about their research?"
+Q5a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Calculating uncertainties usually helps me understand my results better.-What do YOU think when doing experiments for class?
+Q5b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Calculating uncertainties usually helps me understand my results better.-What would experimental physicists say about their research?
+Q6a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Scientific journal articles are helpful for answering my own questions and designing experiments.-What do YOU think when doing experiments for class?
+Q6b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Scientific journal articles are helpful for answering my own questions and designing experiments.-What would experimental physicists say about their research?
+Q7a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I don't enjoy doing physics experiments.-What do YOU think when doing experiments for class?
+Q7b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I don't enjoy doing physics experiments.-What would experimental physicists say about their research?
+Q8a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I try to understand the relevant equations.-What do YOU think when doing experiments for class?"
+Q8b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I try to understand the relevant equations.-What would experimental physicists say about their research?"
+Q9a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When I approach a new piece of lab equipment, I feel confident I can learn how to use it well enough...-What do YOU think when doing experiments for class?"
+Q9b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When I approach a new piece of lab equipment, I feel confident I can learn how to use it well enough...-What would experimental physicists say about their research?"
+Q10a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: Whenever I use a new measurement tool, I try to understand its performance limitations.-What do YOU think when doing experiments for class?"
+Q10b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: Whenever I use a new measurement tool, I try to understand its performance limitations.-What would experimental physicists say about their research?"
+Q11a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Computers are helpful for plotting and analyzing data.-What do YOU think when doing experiments for class?
+Q11b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Computers are helpful for plotting and analyzing data.-What would experimental physicists say about their research?
+Q12a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I don't need to understand how the measurement tools and sensors work in order to carry out an exper...-What do YOU think when doing experiments for class?
+Q12b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I don't need to understand how the measurement tools and sensors work in order to carry out an exper...-What would experimental physicists say about their research?
+Q13a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I try hard enough, I can succeed at doing physics experiments.-What do YOU think when doing experiments for class?"
+Q13b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I try hard enough, I can succeed at doing physics experiments.-What would experimental physicists say about their research?"
+Q14a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I usually think up my own questions to investigate.-What do YOU think when doing experiments for class?"
+Q14b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I usually think up my own questions to investigate.-What would experimental physicists say about their research?"
+Q15a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Designing and building things is an important part of doing physics experiments.-What do YOU think when doing experiments for class?
+Q15b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Designing and building things is an important part of doing physics experiments.-What would experimental physicists say about their research?
+Q16a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: The primary purpose of doing physics experiments is to confirm previously known results.-What do YOU think when doing experiments for class?
+Q16b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: The primary purpose of doing physics experiments is to confirm previously known results.-What would experimental physicists say about their research?
+Q17a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When I encounter difficulties in the lab, my first step is to ask an expert, like the instructor.-What do YOU think when doing experiments for class?"
+Q17b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When I encounter difficulties in the lab, my first step is to ask an expert, like the instructor.-What would experimental physicists say about their research?"
+Q18a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Communicating scientific results to peers is a valuable part of doing physics experiments.-What do YOU think when doing experiments for class?
+Q18b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Communicating scientific results to peers is a valuable part of doing physics experiments.-What would experimental physicists say about their research?
+Q19a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Working in a group is an important part of doing physics experiments.-What do YOU think when doing experiments for class?
+Q19b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Working in a group is an important part of doing physics experiments.-What would experimental physicists say about their research?
+Q20a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I enjoy building things and working with my hands.-What do YOU think when doing experiments for class?
+Q20b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I enjoy building things and working with my hands.-What would experimental physicists say about their research?
+Q21a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I am usually able to complete an experiment without understanding the equations and physics ideas th...-What do YOU think when doing experiments for class?
+Q21b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I am usually able to complete an experiment without understanding the equations and physics ideas th...-What would experimental physicists say about their research?
+Q22a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I am communicating results from an experiment, my main goal is to make conclusions based on my da...-What do YOU think when doing experiments for class?"
+Q22b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I am communicating results from an experiment, my main goal is to make conclusions based on my da...-What would experimental physicists say about their research?"
+Q24a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When I am doing an experiment, I try to make predictions to see if my results are reasonable.-What do YOU think when doing experiments for class?"
+Q24b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When I am doing an experiment, I try to make predictions to see if my results are reasonable.-What would experimental physicists say about their research?"
+Q25a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Nearly all students are capable of doing a physics experiment if they work at it.-What do YOU think when doing experiments for class?
+Q25b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Nearly all students are capable of doing a physics experiment if they work at it.-What would experimental physicists say about their research?
+Q26a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: A common approach for fixing an experiment is to randomly change things until the problem goes away.-What do YOU think when doing experiments for class?
+Q26b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: A common approach for fixing an experiment is to randomly change things until the problem goes away.-What would experimental physicists say about their research?
+Q27a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: It is helpful to understand the assumptions that go into making predictions.-What do YOU think when doing experiments for class?
+Q27b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: It is helpful to understand the assumptions that go into making predictions.-What would experimental physicists say about their research?
+Q28a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I just follow the instructions without thinking about their purpose.-What do YOU think when doing experiments for class?"
+Q28b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: When doing an experiment, I just follow the instructions without thinking about their purpose.-What would experimental physicists say about their research?"
+Q29a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I do not expect doing an experiment to help my understanding of physics.-What do YOU think when doing experiments for class?
+Q29b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: I do not expect doing an experiment to help my understanding of physics.-What would experimental physicists say about their research?
+Q30a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I don't have clear directions for analyzing data, I am not sure how to choose an appropriate anal...-What do YOU think when doing experiments for class?"
+Q30b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","PRETEST: If I don't have clear directions for analyzing data, I am not sure how to choose an appropriate anal...-What would experimental physicists say about their research?"
+Q31a.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Physics experiments contribute to the growth of scientific knowledge.-What do YOU think when doing experiments for class?
+Q31b.x,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",PRETEST: Physics experiments contribute to the growth of scientific knowledge.-What would experimental physicists say about their research?
+IsTransformed.x,Traditional Lab = 0; Transformed DATALab = 1,Was the course Transformed? 
+ExpertlikePre,Total Expert-like Responses (1s) / Total Items (30),PRETEST: Fraction of Expert-like Statements -- What do YOU think when doing experiments for class?
+PRO_ExpertlikePre,Total Expert-like Responses (1s) / Total Items (30),PRETEST: Fraction of Expert-like Statements -- What would experimental physicists say about their research?
+Finished.y,No = 0; Yes = 1,Finished ECLASS POSTTEST 
+Q1a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I try to understand how the experimental setup works.-What do YOU think when doing experiments for class?"
+Q1b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I try to understand how the experimental setup works.-What would experimental physicists say about their research?"
+Q2a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I wanted to, I think I could be good at doing research.-What do YOU think when doing experiments for class?"
+Q2b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I wanted to, I think I could be good at doing research.-What would experimental physicists say about their research?"
+Q3a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing a physics experiment, I don't think much about sources of systematic error.-What do YOU think when doing experiments for class?"
+Q3b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing a physics experiment, I don't think much about sources of systematic error.-What would experimental physicists say about their research?"
+Q4a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I am communicating results from an experiment, my main goal is to have the correct sections and f...-What do YOU think when doing experiments for class?"
+Q4b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I am communicating results from an experiment, my main goal is to have the correct sections and f...-What would experimental physicists say about their research?"
+Q5a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Calculating uncertainties usually helps me understand my results better.-What do YOU think when doing experiments for class?
+Q5b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Calculating uncertainties usually helps me understand my results better.-What would experimental physicists say about their research?
+Q6a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Scientific journal articles are helpful for answering my own questions and designing experiments.-What do YOU think when doing experiments for class?
+Q6b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Scientific journal articles are helpful for answering my own questions and designing experiments.-What would experimental physicists say about their research?
+Q7a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I don't enjoy doing physics experiments.-What do YOU think when doing experiments for class?
+Q7b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I don't enjoy doing physics experiments.-What would experimental physicists say about their research?
+Q8a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I try to understand the relevant equations.-What do YOU think when doing experiments for class?"
+Q8b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I try to understand the relevant equations.-What would experimental physicists say about their research?"
+Q9a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When I approach a new piece of lab equipment, I feel confident I can learn how to use it well enough...-What do YOU think when doing experiments for class?"
+Q9b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When I approach a new piece of lab equipment, I feel confident I can learn how to use it well enough...-What would experimental physicists say about their research?"
+Q10a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: Whenever I use a new measurement tool, I try to understand its performance limitations.-What do YOU think when doing experiments for class?"
+Q10b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: Whenever I use a new measurement tool, I try to understand its performance limitations.-What would experimental physicists say about their research?"
+Q11a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Computers are helpful for plotting and analyzing data.-What do YOU think when doing experiments for class?
+Q11b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Computers are helpful for plotting and analyzing data.-What would experimental physicists say about their research?
+Q12a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I don't need to understand how the measurement tools and sensors work in order to carry out an exper...-What do YOU think when doing experiments for class?
+Q12b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I don't need to understand how the measurement tools and sensors work in order to carry out an exper...-What would experimental physicists say about their research?
+Q13a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I try hard enough, I can succeed at doing physics experiments.-What do YOU think when doing experiments for class?"
+Q13b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I try hard enough, I can succeed at doing physics experiments.-What would experimental physicists say about their research?"
+Q14a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I usually think up my own questions to investigate.-What do YOU think when doing experiments for class?"
+Q14b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I usually think up my own questions to investigate.-What would experimental physicists say about their research?"
+Q15a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Designing and building things is an important part of doing physics experiments.-What do YOU think when doing experiments for class?
+Q15b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Designing and building things is an important part of doing physics experiments.-What would experimental physicists say about their research?
+Q16a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: The primary purpose of doing physics experiments is to confirm previously known results.-What do YOU think when doing experiments for class?
+Q16b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: The primary purpose of doing physics experiments is to confirm previously known results.-What would experimental physicists say about their research?
+Q17a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When I encounter difficulties in the lab, my first step is to ask an expert, like the instructor.-What do YOU think when doing experiments for class?"
+Q17b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When I encounter difficulties in the lab, my first step is to ask an expert, like the instructor.-What would experimental physicists say about their research?"
+Q18a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Communicating scientific results to peers is a valuable part of doing physics experiments.-What do YOU think when doing experiments for class?
+Q18b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Communicating scientific results to peers is a valuable part of doing physics experiments.-What would experimental physicists say about their research?
+Q19a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Working in a group is an important part of doing physics experiments.-What do YOU think when doing experiments for class?
+Q19b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Working in a group is an important part of doing physics experiments.-What would experimental physicists say about their research?
+Q20a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I enjoy building things and working with my hands.-What do YOU think when doing experiments for class?
+Q20b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I enjoy building things and working with my hands.-What would experimental physicists say about their research?
+Q21a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I am usually able to complete an experiment without understanding the equations and physics ideas th...-What do YOU think when doing experiments for class?
+Q21b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I am usually able to complete an experiment without understanding the equations and physics ideas th...-What would experimental physicists say about their research?
+Q22a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I am communicating results from an experiment, my main goal is to make conclusions based on my da...-What do YOU think when doing experiments for class?"
+Q22b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I am communicating results from an experiment, my main goal is to make conclusions based on my da...-What would experimental physicists say about their research?"
+Q24a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When I am doing an experiment, I try to make predictions to see if my results are reasonable.-What do YOU think when doing experiments for class?"
+Q24b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When I am doing an experiment, I try to make predictions to see if my results are reasonable.-What would experimental physicists say about their research?"
+Q25a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Nearly all students are capable of doing a physics experiment if they work at it.-What do YOU think when doing experiments for class?
+Q25b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Nearly all students are capable of doing a physics experiment if they work at it.-What would experimental physicists say about their research?
+Q26a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: A common approach for fixing an experiment is to randomly change things until the problem goes away.-What do YOU think when doing experiments for class?
+Q26b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: A common approach for fixing an experiment is to randomly change things until the problem goes away.-What would experimental physicists say about their research?
+Q27a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: It is helpful to understand the assumptions that go into making predictions.-What do YOU think when doing experiments for class?
+Q27b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: It is helpful to understand the assumptions that go into making predictions.-What would experimental physicists say about their research?
+Q28a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I just follow the instructions without thinking about their purpose.-What do YOU think when doing experiments for class?"
+Q28b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: When doing an experiment, I just follow the instructions without thinking about their purpose.-What would experimental physicists say about their research?"
+Q29a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I do not expect doing an experiment to help my understanding of physics.-What do YOU think when doing experiments for class?
+Q29b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: I do not expect doing an experiment to help my understanding of physics.-What would experimental physicists say about their research?
+Q30a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I don't have clear directions for analyzing data, I am not sure how to choose an appropriate anal...-What do YOU think when doing experiments for class?"
+Q30b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1","POSTTEST: If I don't have clear directions for analyzing data, I am not sure how to choose an appropriate anal...-What would experimental physicists say about their research?"
+Q31a.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Physics experiments contribute to the growth of scientific knowledge.-What do YOU think when doing experiments for class?
+Q31b.y,"Disagree with expert = -1, Neutral = 0; Agree with expert = 1",POSTTEST: Physics experiments contribute to the growth of scientific knowledge.-What would experimental physicists say about their research?
+Q12c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... understanding how the measurement tools and sensors work?
+Q6c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... reading scientific journals?
+Q27c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... understanding the approximations and simplifications that are included in theoretical predictions?
+Q19c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... working in a group?
+Q26c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... randomly changing things to fix a problem with the experiment?
+Q5c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... calculating uncertainties to better understand my results?
+Q30c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... choosing an appropriate method for analyzing data (without explicit directions)?
+Q1c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... understanding how the experimental setup works?
+Q8c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... understanding the relevant equations?
+Q11c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... using a computer for plotting and analyzing data?
+Q14c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... thinking up my own questions to investigate?
+Q15c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... designing and building things?
+Q21c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... understanding the equations and physics ideas that describe the system I am investigating?
+Q17c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... overcoming difficulties without the instructor's help?
+Q18c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... communicating scientific results to peers?
+Q3c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... thinking about sources of systematic error?
+Q28c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... thinking about the purpose of the instructions in the lab guide?
+Q22c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... making conclusions based on data using scientific reasoning?
+Q10c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... understanding the performance limitations of the measurement tools?
+Q4c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... communicating results with the correct sections and formatting?
+Q9c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... learning to use a new piece of lab equipment?
+Q24c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... making predictions to see if my results are reasonable?
+Q16c,Likert Scale: Unimportant = 1 --> Very Important = 5,How important for earning a good grade was...-... confirming previously known results?
+CurrentMajor,,What is your current declared major?
+ChangeMajor,,"If you plan to change your major, please choose the major you intend to switch to."
+CurrentInterest,,"Currently, what is your level of interest in physics?"
+SemesterInterest,,"During the semester, my interest in physics?"
+SI_why,,Why?
+PhysGradSchool,,Do your future plans include...-physics graduate school?
+SciMathGradSchool,,Do your future plans include...-other science/math graduate school?
+NonAcadJob,,Do your future plans include...-a non-academic science/math/eng job?
+MedSchool,,Do your future plans include...-medical school?
+ProfSchool,,Do your future plans include...-other professional school?
+K12Teacher,,Do your future plans include...-teaching K-12 science/math?
+CollegeTeacher,,Do your future plans include...-teaching college science/math/engineering?
+NonSciJob,,Do your future plans include...-A non-science/math/engineering job?
+GenderCode,F= 1; M=2,What is your gender? (Optional) -Code
+Consent,No = 0; Yes = 1,Pressing the button will submit your survey and signals your consent to participate in this research...
+Gender,F or M,What is your gender? (Optional) -Character
+IsTransformed.y,Traditional Lab = 0; Transformed DATALab = 1,Was the course Transformed? 
+Gender_Text,,What is your gender? (Optional) -Text
+AmerInd.AlaskaNat,Yes = 1,What is your race/ethnicity? (Optional)-American Indian or Alaska Native
+Asian,Yes = 1,What is your race/ethnicity? (Optional)-Asian
+Black,Yes = 1,What is your race/ethnicity? (Optional)-Black or African American
+Hispanic,Yes = 1,What is your race/ethnicity? (Optional)-Hispanic/Latino
+NatHaw.PacIsl,Yes = 1,What is your race/ethnicity? (Optional)-Native Hawaiian or other Pacific Islander
+White,Yes = 1,What is your race/ethnicity? (Optional)-White
+Other,Yes = 1,What is your race/ethnicity? (Optional)-Other race/ethnicity
+Other_Text,Yes = 1,What is your race/ethnicity? (Optional)-Other race/ethnicity-TEXT
+Expertlikepost,Total Expert-like Responses (1s) / Total Items (30),POSTTEST: Fraction of Expert-like Statements -- What do YOU think when doing experiments for class?
+PRO_Expertlikepost,Total Expert-like Responses (1s) / Total Items (30),POSTTEST: Fraction of Expert-like Statements -- What would experimental physicists say about their research?
+Course,251 or 252,Physics Course
